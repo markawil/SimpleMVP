@@ -1,0 +1,15 @@
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.WinForms.exe
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.WinForms.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\obj\x86\Debug\MVP.WinForms.Properties.Resources.resources
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\obj\x86\Debug\MVP.WinForms.exe
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\obj\x86\Debug\MVP.WinForms.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.PresentationLayer.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.Model.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.Domain.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.PresentationLayer.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.Model.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\bin\Debug\MVP.Domain.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.WinForms\obj\x86\Debug\MVP.WinForms.Form1.resources

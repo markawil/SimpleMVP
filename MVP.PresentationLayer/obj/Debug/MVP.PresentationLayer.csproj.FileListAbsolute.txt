@@ -1,0 +1,9 @@
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\bin\Debug\MVP.PresentationLayer.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\bin\Debug\MVP.PresentationLayer.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\bin\Debug\MVP.Domain.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\bin\Debug\MVP.Model.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\bin\Debug\MVP.Domain.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\bin\Debug\MVP.Model.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\obj\Debug\MVP.PresentationLayer.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.PresentationLayer\obj\Debug\MVP.PresentationLayer.pdb

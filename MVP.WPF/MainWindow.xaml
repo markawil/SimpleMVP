@@ -1,0 +1,49 @@
+﻿<Window x:Class="MVP.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="290" Width="390">
+    <Grid>
+        <TextBox Height="23"
+                 Margin="67,61,85,0"
+                 Name="txtBox_name"
+                 VerticalAlignment="Top" />
+        <Label Content="Name:"
+               Height="28"
+               HorizontalAlignment="Left"
+               Margin="67,27,0,0"
+               Name="label1"
+               VerticalAlignment="Top" />
+        <TextBox Height="23"
+                 Margin="67,124,85,0"
+                 Name="txtBox_email"
+                 VerticalAlignment="Top" />
+        <Label Content="Email:"
+               Height="28"
+               HorizontalAlignment="Left"
+               Margin="67,90,0,0"
+               Name="label2"
+               VerticalAlignment="Top" />
+        <Button Content="Save"
+                Height="23"
+                HorizontalAlignment="Left"
+                Margin="67,187,0,0"
+                Name="button1"
+                VerticalAlignment="Top"
+                Width="86"
+                Click="button1_Click" />
+        <Button Content="Cancel"
+                Height="23"
+                HorizontalAlignment="Left"
+                Margin="197,187,0,0"
+                Name="button2"
+                VerticalAlignment="Top"
+                Width="86" />
+        <Label Name="ValidationLabel"
+                Content="Not Saved Yet."
+               Height="28"
+               HorizontalAlignment="Left"
+               Margin="64,153,0,0"
+               VerticalAlignment="Top"
+               Width="193" />
+    </Grid>
+</Window>

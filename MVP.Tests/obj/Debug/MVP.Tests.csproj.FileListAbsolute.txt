@@ -1,0 +1,15 @@
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.Tests.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.Tests.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\nunit.framework.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\nunit.framework.xml
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\obj\Debug\MVP.Tests.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\obj\Debug\MVP.Tests.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.Domain.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.Model.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.Domain.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.Model.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.PresentationLayer.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Tests\bin\Debug\MVP.PresentationLayer.pdb

@@ -1,0 +1,5 @@
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Domain\bin\Debug\MVP.Domain.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Domain\bin\Debug\MVP.Domain.pdb
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Domain\obj\Debug\MVP.Domain.dll
+C:\Users\markw\Documents\Visual Studio 2010\Projects\WPF_Projects\MVP\MVP.Domain\obj\Debug\MVP.Domain.pdb
